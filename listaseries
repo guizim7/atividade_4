@@ -1,0 +1,5 @@
+let series = ["Breaking bad", "Dexter", "Prison break", "Reacher", "Brooklyn99", "The boys", "Hannibal", "Invencivel", "Patrulha o destino", "Titãs"];
+
+for(indice= 0;indice <=9;indice++) {
+  console.log(series[indice]);
+}
